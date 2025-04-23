@@ -1,0 +1,1 @@
+Blog de estudos para DJANGO
